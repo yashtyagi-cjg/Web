@@ -1,6 +1,6 @@
 # Coursera Course
 ## Assignment for module 2
-Check out the website [here]https://github.com/yashtyagi-cjg/Web/blob/main/site/assign2.html) to maintain and preview the content for your website in Markdown files.
+Check out the website [here](https://github.com/yashtyagi-cjg/Web/blob/main/site/assign2.html) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
